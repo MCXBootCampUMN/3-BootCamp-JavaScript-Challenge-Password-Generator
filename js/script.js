@@ -57,31 +57,30 @@
     
     // Criteria
     if (hasUppercase === false && hasLowercase === false && hasNumbers === false && hasSpecial === false) {
-      return "Please Select One of The Character Criteria."
+      return "Please Select One of The Character Criteria.";
     }
     
     // Selecting 
-    if (hasLowerletterCharacters) {
+    if (hasUppercase) {
       possibleCharacters= possibleCharacters.concat (uppercaseCharacters);
     }
-    if(hasLowerletterCharacters){
+    if(hasLowercase){
       possibleCharacters= possibleCharacters.concat (lowercaseCharacters);
     }
     if (hasNumbers) {
       possibleCharacters= possibleCharacters.concat (numericCharacters);
     }
-    if (hasSpecialcharacter) {
+    if (hasSpecial) {
       possibleCharacters= possibleCharacters.concat (specialCharacters);
     }
     
     //password range setup
     let finalPassword= ""
-    for (let i=0; i < numberCharacters; i++) {
-      let rng =[Math.floor(Math.random() * possibleCharacters.lenght)];
+    for (let i = 0; i <  numberOfCharacters; i++) {
+      let rng =Math.floor(Math.random() * possibleCharacters.length);
     // generated password final & rng
-    finalPassword = finalPassword+possibleCharacters[rng];
+    finalPassword = possibleCharacters[rng] + finalPassword;
     }
-    alert (finalPassword)
     return finalPassword;
     };
     
