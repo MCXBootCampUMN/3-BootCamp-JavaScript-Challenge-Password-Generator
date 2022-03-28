@@ -26,6 +26,7 @@ Randomly generated passwords that contains Uppercase, Lowercase, Numbers and Spe
 
 - UofM BootCamp
   - HTML & CSS Starter Codes
+  - (https://github.com/coding-boot-camp/friendly-parakeet)
 - MCX
   - JS Program Function codes
 
@@ -43,3 +44,5 @@ Randomly generated passwords that contains Uppercase, Lowercase, Numbers and Spe
 <img width="400" alt=" 1st Image" src="https://raw.githubusercontent.com/Mcnoor/Challenge3-BC/main/Images/2%20Mid.png">
 
 <img width="400" alt=" 1st Image" src="https://raw.githubusercontent.com/Mcnoor/Challenge3-BC/main/Images/3%20Final.png">
+
+#### Thank you
