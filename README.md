@@ -1,7 +1,7 @@
 # Random Password Generator
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Mcnoor/Challenge3-BC)
-![GitHub] (https://img.shields.io/github/languages/top/Mcnoor/Challenge3-BC)
+![GitHub top language](https://img.shields.io/github/languages/top/Mcnoor/Challenge3-BC)
 
 ## UofM BootCamp: Challenge 3
 
