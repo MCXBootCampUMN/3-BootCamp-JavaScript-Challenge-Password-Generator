@@ -2,47 +2,41 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Mcnoor/Challenge3-BC)
 
-# Random Password Generator
+## Random Password Generator
 
-# Purpose
+## Purpose
 
 Randomly generated passwords that contains Uppercase, Lowercase, Numbers and Special Characters allowing for greater security in securing sensitive data. This password generator some basic HTML and CSS to make up the structure content. The JavaScript allows the program function behavors to generate the random password after required criteria data is inputed by users. There are a series of prompts for password selection and prefernce. A unique and specific password should in character length of 8-128 characters containing Uppercase, Lowercase, Numbers and Special Characters as mention. A display alret will appear with each prompt to validate after selection to make sure requirements are met.
 
-## How to use
+### How to use
 
 - click on link of URL and open up on browser.
   - Page will display Generate a Password window
 - Click on Generate Password Button
   - Follow Prompts to insure of password criteria
 
-## Site Makeup
+### Site Makeup
 
 - HTML (HyperText Markup Language)
 - CSS (Cascading Style Sheets)
 - JS (JavaScript)
 
-### Credits
+#### Credits
 
 - UofM BootCamp
   - HTML & CSS Starter Codes
 - MCX
   - JS Program Function codes
 
-### Site
+#### Site
 
 - GitHub Public Repo
   - https://github.com/Mcnoor/Challenge3-BC.git
 - GitHub Page Link
   - https://mcnoor.github.io/Challenge3-BC/
 
-### images
+#### images
 
 https://raw.githubusercontent.com/Mcnoor/Challenge3-BC/main/Images/1%20Start.png
 https://raw.githubusercontent.com/Mcnoor/Challenge3-BC/main/Images/2%20Mid.png
 https://raw.githubusercontent.com/Mcnoor/Challenge3-BC/main/Images/3%20Final.png
-
-<img width="500" alt="Screen Shot 2021-02-21 at 5 57 19 PM" src="https://raw.githubusercontent.com/Mcnoor/Challenge3-BC/main/Images/1%20Start.png">
-
-<img width="500" alt="Screen Shot 2021-02-21 at 5 57 19 PM" src=https://raw.githubusercontent.com/Mcnoor/Challenge3-BC/main/Images/2%20Mid.png">
-
-<img width="500" alt="Screen Shot 2021-02-21 at 5 57 19 PM" src="https://raw.githubusercontent.com/Mcnoor/Challenge3-BC/main/Images/3%20Final.png">
