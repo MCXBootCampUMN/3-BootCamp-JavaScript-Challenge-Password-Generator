@@ -39,6 +39,8 @@ Randomly generated passwords that contains Uppercase, Lowercase, Numbers and Spe
 
 <img width="400" alt=" 1st Image" src="https://raw.githubusercontent.com/Mcnoor/Challenge3-BC/main/Images/1%20Start.png">
 
+<img width="400" alt=" 1st Image" src="https://raw.githubusercontent.com/Mcnoor/Challenge3-BC/main/Images/2%20Mid.png">
+
 <src=https://raw.githubusercontent.com/Mcnoor/Challenge3-BC/main/Images/2%20Mid.png">
 
 <src="https://raw.githubusercontent.com/Mcnoor/Challenge3-BC/main/Images/3%20Final.png">
