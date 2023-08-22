@@ -32,10 +32,12 @@ Randomly generated passwords that contains Uppercase, Lowercase, Numbers and Spe
 
 #### Site
 
-- GitHub Public Repo
-  - https://github.com/Mcnoor/Challenge3-BC.git
-- GitHub Page Link
-  - https://mcnoor.github.io/Challenge3-BC/
+## **_Link URL to deployed website on GitHub_**
+[Github-Project](https://mcxbootcampumn.github.io/3-BootCamp-JavaScript-Challenge-Password-Generator/)
+
+## **_Link URL to GitHub Repository_**
+
+[Github-Repo](https://github.com/MCXBootCampUMN/3-BootCamp-JavaScript-Challenge-Password-Generator)
 
 #### images
 
