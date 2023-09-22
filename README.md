@@ -35,11 +35,11 @@ Randomly generated passwords that contains Uppercase, Lowercase, Numbers and Spe
 #### Site
 
 ## **_Link URL to deployed website on GitHub_**
-[Github-Project](https://Maxamed-NCX.github.io/3-JavaScript-Challenge-Password-Generator/)
+[Github-Project](https://Maxamed-NCX.github.io/3-JavaScript-Application-Password-Generator/)
 
 ## **_Link URL to GitHub Repository_**
 
-[Github-Repo](https://github.com/Maxamed-NCX/3-JavaScript-Challenge-Password-Generator)
+[Github-Repo](https://github.com/Maxamed-NCX/3-JavaScript-Application-Password-Generator)
 
 #### images
 
