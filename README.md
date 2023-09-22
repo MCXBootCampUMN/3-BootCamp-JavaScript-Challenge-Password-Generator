@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Mcnoor/Challenge3-BC)
 ![GitHub top language](https://img.shields.io/github/languages/top/Mcnoor/Challenge3-BC)
 
-## UofM BootCamp: Challenge 3
+## UofM BootCamp: Application 3
 
 ### Purpose
 
@@ -35,11 +35,11 @@ Randomly generated passwords that contains Uppercase, Lowercase, Numbers and Spe
 #### Site
 
 ## **_Link URL to deployed website on GitHub_**
-[Github-Project](https://Maxamed-NCX.github.io/3-BootCamp-JavaScript-Challenge-Password-Generator/)
+[Github-Project](https://Maxamed-NCX.github.io/3-JavaScript-Challenge-Password-Generator/)
 
 ## **_Link URL to GitHub Repository_**
 
-[Github-Repo](https://github.com/Maxamed-NCX/3-BootCamp-JavaScript-Challenge-Password-Generator)
+[Github-Repo](https://github.com/Maxamed-NCX/3-JavaScript-Challenge-Password-Generator)
 
 #### images
 
